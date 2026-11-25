@@ -1,5 +1,7 @@
 # 1000000000D World
 
+[Exécuter le solveur](https://baalla-codingame-lab.abdelhakimbaalla50.workers.dev/?projet=1000000000d-world)
+
 [Exemple de vecteurs compressés](https://github.com/Abdelhakim-Baalla/1000000000d-world/blob/master/tests/01_example.txt)
 
 [![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A514-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
